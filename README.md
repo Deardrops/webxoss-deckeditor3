@@ -60,8 +60,8 @@ src/
 
 ```bash
 # Clone the repository
-git clone <repo-url>
-cd webxoss-deck-editor3
+git clone git@github.com:Deardrops/webxoss-deckeditor3.git
+cd webxoss-deckeditor3
 
 # Install dependencies
 npm install
